@@ -89,7 +89,7 @@ Ex: C:\diretorio-do-seu-servidor\ShooterGame\Content\Mods
 * Anote os nomes das pastas, que são os ids dos mods, e adicione no ASM separado por vírgula e sem espaços. 
 Ex. 564895376,621154190,731604991,761535755,814833973,819857895,849985437,916417001,919470289,1191739191
 
-![Mod config](https://i.imgur.com/BNzSdqx.png?raw=true)
+![Mod config](https://i.imgur.com/eNnjF7x.png))
 
 
 ## Maiores informações
