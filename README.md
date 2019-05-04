@@ -33,8 +33,7 @@ OBS: caso elas já estejam sendo usadas por outra aplicação, é necessário tr
 ### Firewall de anti-virus
 * Você precisa abrir as portas listadas acima para TCP e UDP.
 * Pode ser necessário também indicar o caminho do executável do servidor: seu-local-de instalacao/ShooterGame/Binaries/Win64/ShooterGameServer.exe
-
-#### Exemplos
+ 
 ![Abrindo portas no firewall do Windows](https://i.imgur.com/gWUcQbZ.png)
 
 
@@ -54,9 +53,7 @@ OBS: caso elas já estejam sendo usadas por outra aplicação, é necessário tr
 
 OBS: essas informações podem mudar de acordo com a marca do seu roteador.
 * Configure a abertura(Forwarding Port) e eventos(Port Triggers) para as portas: 7777 e 27015, indicando o seu ip local (ipv4)
-
-
-#### Exemplos
+OBS: não esqueça de reiniciar seu modem após as configurações feitas.
 
 ![Forwarding](https://i.imgur.com/BNzSdqx.png?raw=true)
 
