@@ -30,6 +30,9 @@ OBS: caso elas já estejam sendo usadas por outra aplicação, é necessário tr
 * Você precisa abrir as portas listadas acima para TCP e UDP.
 * Pode ser necessário também indicar o caminho do executável do servidor: seu-local-de instalacao/ShooterGame/Binaries/Win64/ShooterGameServer.exe
 
+Exemplos
+[Abrindo portas no firewall do Windows]([Imgur](https://i.imgur.com/gWUcQbZ.png))
+
 
 ## Obtendo Ip local
 * Verifique seu ip público no site [What is my ip](https://www.whatismyip.com/what-is-my-public-ip-address/)
