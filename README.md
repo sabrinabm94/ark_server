@@ -73,9 +73,22 @@ OBS: essas informações podem mudar de acordo com a marca do seu roteador.
 * [Wyvern Milk Substitute](https://steamcommunity.com/sharedfiles/filedetails/?id=819857895)
 
 
-## Others
+### Outros
 * [Better Milk](https://steamcommunity.com/sharedfiles/filedetails/?id=770949087)
 * [Wyvern Milk Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=878539458)
+
+### Instalação
+* Baixa os mods nos quais se subscreveu
+
+* Vá na pasta dos seus mods locais e copie eles
+Ex. C:\Program Files (x86)\Steam\steamapps\common\ARK\ShooterGame\Content\Mods
+ 
+* Cole os arquivos na pasta dos mods do servidor.
+Ex. C:\diretorio-do-servidor\ShooterGame\Content\Mods
+
+* Adicione os ids dos mods nas configurações do servidor, separados por vírgula e se espaço. 
+Ex. 621154190,849985437,731604991,919470289,1191739191,814833973,819857895
+![Mods](https://i.imgur.com/e3kNfZ8.png)
 
 
 ## Maiores informações
