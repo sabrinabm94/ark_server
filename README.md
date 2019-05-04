@@ -11,7 +11,7 @@ Baixar o [Steam CMD](https://arkservermanager.s3.amazonaws.com/release/latest.zi
 Crie um diretório (C://servidores/steam_cmd/) e descompacte os arquivos ali.
 
 ### Ark Server Management (ASM)
-Baixe e instale o [Ark Server Management](http://arkservermanager.freeforums.net/thread/4/installation-ark-server-manager)
+Baixe e instale o [Ark Server Management 1.0.301](http://arkservermanager.s3.amazonaws.com/release/ArkServerManager_1.0.301.zip)
 
 # Configuração
 ## Portas
