@@ -18,7 +18,8 @@ Baixe e instale o [Ark Server Management](http://arkservermanager.freeforums.net
 As portas por padrão são:
 * Server Port: 7777
 * Query Port: 27015
-Caso elas já estejam sendo usadas por outra aplicação, é necessário trocar.
+
+OBS: caso elas já estejam sendo usadas por outra aplicação, é necessário trocar.
 
 
 ## Firewall
@@ -32,7 +33,6 @@ Caso elas já estejam sendo usadas por outra aplicação, é necessário trocar.
 
 ## Obtendo Ip local
 * Verifique seu ip público no site [What is my ip](https://www.whatismyip.com/what-is-my-public-ip-address/)
-* Anote a numeração que vai ser indicada em ipv4, geralmente 192.168.1.x
 
 
 ## Obtendo Ip público
@@ -44,6 +44,7 @@ Caso elas já estejam sendo usadas por outra aplicação, é necessário trocar.
 ### Abrindo portas no roteador
 * Abra uma aba no navegador e digite http://192.168.1.0/ ou http://192.168.1.1/
 * A senha padrão de acesso é usuário vazio e senha admin.
+
 OBS: essas informações podem mudar de acordo com a marca do seu roteador.
 * Configure a abertura(Forwarding Port) e eventos(Port Triggers) para as portas: 7777 e 27015, indicando o seu ip local (ipv4)
 
