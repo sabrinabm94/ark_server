@@ -52,10 +52,10 @@ OBS: caso elas já estejam sendo usadas por outra aplicação, é necessário tr
 * A senha padrão de acesso é usuário vazio e senha admin.
 
 OBS: essas informações podem mudar de acordo com a marca do seu roteador.
-* Configure a abertura(Forwarding Port) e eventos(Port Triggers) para as portas: 7777 e 27015, indicando o seu ip local (ipv4)
+* Configure a abertura(Forwarding Port) e eventos(Port Triggers) para as portas: 7777 e 27015, indicando o seu ip local (ipv4) e ip externo (público)
 OBS: não esqueça de reiniciar seu modem após as configurações feitas.
 
-![Forwarding](https://i.imgur.com/BNzSdqx.png?raw=true)
+![Forwarding](https://i.imgur.com/CGoNP7n.png)
 
 ![Port Triggers](https://i.imgur.com/KKW6EPU.png?raw=true)
 
