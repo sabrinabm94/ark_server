@@ -54,7 +54,7 @@ OBS: essas informações podem mudar de acordo com a marca do seu roteador.
 
 Exemplos
 
-[Forwarding](https://i.imgur.com/BNzSdqx.png)
+![Forwarding](https://i.imgur.com/BNzSdqx.png?raw=true)
 
 [Port Triggers](https://i.imgur.com/KKW6EPU.png)
 
