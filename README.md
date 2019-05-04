@@ -55,8 +55,8 @@ OBS: essas informações podem mudar de acordo com a marca do seu roteador.
 Exemplos
 
 [Forwarding](https://i.imgur.com/BNzSdqx.png)
+
 [Port Triggers](https://i.imgur.com/KKW6EPU.png)
-[tutorial](https://www.youtube.com/watch v=DKcHpcbXsLA&fbclid=IwAR0zxTOUFxTXIUIurUBRz81W9eBcivOJA1RaHWUTDNVwQGnzpGn2msTvCG0)
 
 
 ## Mods
