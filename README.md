@@ -29,6 +29,11 @@ Caso elas já estejam sendo usadas por outra aplicação, é necessário trocar.
 * Pode ser necessário também indicar o caminho do executável do servidor: seu-local-de instalacao/ShooterGame/Binaries/Win64/ShooterGameServer.exe
 
 
+## Roteador
+### Roteador com Ip do modem diferente (ou sem) ip público
+
+
+
 ## Mods
 ### Oficial
 * Mapa: [Ebenus Astrum](https://steamcommunity.com/sharedfiles/filedetails/?id=916417001)
