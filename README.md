@@ -79,14 +79,17 @@ OBS: essas informações podem mudar de acordo com a marca do seu roteador.
 * Abra o ark e espere terminar o download de todos os mods
 
 * Acesse o diretório do seu jogo. 
+
 Ex. C:\Program Files (x86)\Steam\steamapps\common\ARK\ShooterGame\Content\Mods
 
 * Copie as pastas dos mobs
 
 * Cole no diretório dos mobs do servidor. 
+
 Ex: C:\diretorio-do-seu-servidor\ShooterGame\Content\Mods
 
 * Anote os nomes das pastas, que são os ids dos mods, e adicione no ASM separado por vírgula e sem espaços. 
+
 Ex. 621154190,849985437,731604991,919470289,1191739191,814833973,819857895
 
 ![Mod config](https://i.imgur.com/e3kNfZ8.png)
