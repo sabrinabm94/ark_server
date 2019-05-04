@@ -72,3 +72,7 @@ Exemplo de um [tutorial](https://www.youtube.com/watch v=DKcHpcbXsLA&fbclid=IwAR
 ## Others
 * [Better Milk](https://steamcommunity.com/sharedfiles/filedetails/?id=770949087)
 * [Wyvern Milk Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=878539458)
+
+
+## Maiores informações
+* [Ark server management](http://arkservermanager.freeforums.net/thread/4/installation-ark-server-manager)
