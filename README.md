@@ -7,7 +7,7 @@ Custom configurations to ark server.
 Baixe o [.NET Framework](https://www.microsoft.com/en-us/download/details.aspx?id=30653) e instale
 
 ### Steam CMD
-Baixar o [Steam CMD](https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip)
+Baixar o [Steam CMD](https://arkservermanager.s3.amazonaws.com/release/latest.zip)
 Crie um diretório (C://servidores/steam_cmd/) e descompacte os arquivos ali.
 
 ### Ark Server Management (ASM)
