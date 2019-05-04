@@ -3,7 +3,7 @@ Custom configurations to ark server.
 
 # Criação do servidor (Windows)
 ## Requisitos
-### .NET Framework version 4.5
+### .NET Framework version 4.5.2
 Baixe o [.NET Framework](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.microsoft.com%2Fpt-br%2Fdownload%2Fconfirmation.aspx%3Fid%3D42642%26fbclid%3DIwAR2QHpRW9fByXXdRUr8BSX2NbsqWVTxr5W7yAOH8IGQ2RNOWwUKixOqWpEo&h=AT25dxDYeuHz96gg54plmVv0zFZr7VXfGsQmj8TYWnjePlktEMKFquHC984jbAk-Ef91mUo-wXlBmEqITWu2l6uPOBIOE4KU06gqxFxIAa25e4mUFWGpgaDcURGcFcCtN60L) e instale
 
 ### Steam CMD
