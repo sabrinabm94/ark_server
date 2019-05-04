@@ -14,7 +14,7 @@ Crie um diretório (C://servidores/steam_cmd/) e descompacte os arquivos ali.
 Baixe e instale o [Ark Server Management 1.0.301](http://arkservermanager.s3.amazonaws.com/release/ArkServerManager_1.0.301.zip)
 
 OBS: sempre execute o ASM como administrador, isso é muito importante.
-![Admin](https://i.imgur.com/d1DigPX.png)
+![Admin](https://i.imgur.com/d1DigPX.png) 
 
 
 # Configuração
