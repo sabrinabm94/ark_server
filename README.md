@@ -51,12 +51,12 @@ Exemplos
 OBS: essas informações podem mudar de acordo com a marca do seu roteador.
 * Configure a abertura(Forwarding Port) e eventos(Port Triggers) para as portas: 7777 e 27015, indicando o seu ip local (ipv4)
 
+
 Exemplos
+
 [Forwarding](https://i.imgur.com/BNzSdqx.png)
-
 [Port Triggers](https://i.imgur.com/KKW6EPU.png)
-
-Exemplo de um [tutorial](www.youtube.com/watch v=DKcHpcbXsLA&fbclid=IwAR0zxTOUFxTXIUIurUBRz81W9eBcivOJA1RaHWUTDNVwQGnzpGn2msTvCG0)
+[tutorial](https://www.youtube.com/watch v=DKcHpcbXsLA&fbclid=IwAR0zxTOUFxTXIUIurUBRz81W9eBcivOJA1RaHWUTDNVwQGnzpGn2msTvCG0)
 
 
 ## Mods
