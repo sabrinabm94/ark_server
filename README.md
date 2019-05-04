@@ -20,6 +20,7 @@ As portas por padrão são:
 * Query Port: 27015
 Caso elas já estejam sendo usadas por outra aplicação, é necessário trocar.
 
+
 ## Firewall
 ### Firewall do Windows
 * O próprio ASM irá abrir as portas corretamente para cada servidor criado.
@@ -29,9 +30,29 @@ Caso elas já estejam sendo usadas por outra aplicação, é necessário trocar.
 * Pode ser necessário também indicar o caminho do executável do servidor: seu-local-de instalacao/ShooterGame/Binaries/Win64/ShooterGameServer.exe
 
 
-## Roteador
-### Roteador com Ip do modem diferente (ou sem) ip público
+## Obtendo Ip local
+* Verifique seu ip público no site [What is my ip](https://www.whatismyip.com/what-is-my-public-ip-address/)
+* Anote a numeração que vai ser indicada em ipv4, geralmente 192.168.1.x
 
+
+## Obtendo Ip público
+* Abra a cmd e digite ipconfig
+* Anote a numeração que vai ser indicada em ipv4, geralmente 192.168.1.x
+
+
+## Roteador
+### Abrindo portas no roteador
+* Abra uma aba no navegador e digite http://192.168.1.0/ ou http://192.168.1.1/
+* A senha padrão de acesso é usuário vazio e senha admin.
+OBS: essas informações podem mudar de acordo com a marca do seu roteador.
+* Configure a abertura(Forwarding Port) e eventos(Port Triggers) para as portas: 7777 e 27015, indicando o seu ip local (ipv4)
+
+Exemplos
+[Forwarding](https://i.imgur.com/BNzSdqx.png)
+
+[Port Triggers](https://i.imgur.com/KKW6EPU.png)
+
+Exemplo de um [tutorial](https://www.youtube.com/watch v=DKcHpcbXsLA&fbclid=IwAR0zxTOUFxTXIUIurUBRz81W9eBcivOJA1RaHWUTDNVwQGnzpGn2msTvCG0)
 
 
 ## Mods
@@ -42,6 +63,7 @@ Caso elas já estejam sendo usadas por outra aplicação, é necessário trocar.
 * [Speedy Flyers](https://steamcommunity.com/sharedfiles/filedetails/?id=919470289)
 * [Wyvern Mating](https://steamcommunity.com/sharedfiles/filedetails/?id=814833973)
 * [Wyvern Milk Substitute](https://steamcommunity.com/sharedfiles/filedetails/?id=819857895)
+
 
 ## Others
 * [Better Milk](https://steamcommunity.com/sharedfiles/filedetails/?id=770949087)
