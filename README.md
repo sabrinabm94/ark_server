@@ -56,7 +56,7 @@ Exemplos
 
 [Port Triggers](https://i.imgur.com/KKW6EPU.png)
 
-Exemplo de um [tutorial](https://www.youtube.com/watch v=DKcHpcbXsLA&fbclid=IwAR0zxTOUFxTXIUIurUBRz81W9eBcivOJA1RaHWUTDNVwQGnzpGn2msTvCG0)
+Exemplo de um [tutorial](www.youtube.com/watch v=DKcHpcbXsLA&fbclid=IwAR0zxTOUFxTXIUIurUBRz81W9eBcivOJA1RaHWUTDNVwQGnzpGn2msTvCG0)
 
 
 ## Mods
