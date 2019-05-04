@@ -1,5 +1,6 @@
-# Informations
-Custom configurations to ark server.
+# Informações para criar e publicar servidor de Ark
+* Servidor Windows
+* Ark server management
 
 # Criação do servidor (Windows)
 ## Requisitos
