@@ -84,7 +84,7 @@ Ex. C:\Program Files (x86)\Steam\steamapps\common\ARK\ShooterGame\Content\Mods
 Ex. C:\diretorio-do-servidor\ShooterGame\Content\Mods
 
 * Adicione os ids dos mods nas configurações do servidor, separados por vírgula e se espaço. 
-Ex. 621154190,849985437,731604991,919470289,1191739191,814833973,819857895
+Ex. 1404089637,621154190,849985437,731604991,919470289,1191739191,814833973,819857895
 ![Mods](https://i.imgur.com/e3kNfZ8.png)
 
 
