@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <ArkServerProfile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <ProfileID>e3fa7b24-3170-4dd9-862f-15a5e8216ca4</ProfileID>
+  <ProfileID>cb2c549f-5976-4198-92d2-984000d235e8</ProfileID>
   <ProfileName>Ark Valyria By Saenyra</ProfileName>
   <InstallDirectory>C:\Servidores\Ark Valyria</InstallDirectory>
   <LastInstalledVersion>295.107</LastInstalledVersion>
   <ServerName>Ark Valyria By Saenyra</ServerName>
-  <ServerPassword> </ServerPassword>
+  <ServerPassword />
   <AdminPassword>260194</AdminPassword>
   <SpectatorPassword />
   <ServerConnectionPort>7777</ServerConnectionPort>
   <ServerPort>27015</ServerPort>
-  <ServerIP />
+  <ServerIP>192.168.0.15</ServerIP>
   <UseRawSockets>false</UseRawSockets>
   <EnableBanListURL>false</EnableBanListURL>
   <BanListURL />
   <MaxPlayers>20</MaxPlayers>
-  <EnableKickIdlePlayers>false</EnableKickIdlePlayers>
+  <EnableKickIdlePlayers>true</EnableKickIdlePlayers>
   <KickIdlePlayersPeriod>3600</KickIdlePlayersPeriod>
   <RCONEnabled>false</RCONEnabled>
   <RCONPort>32330</RCONPort>
   <RCONServerGameLogBuffer>600</RCONServerGameLogBuffer>
   <AdminLogging>false</AdminLogging>
-  <ServerMap>/Game/Mods/916417001/EbenusAstrum</ServerMap>
+  <ServerMap>/Game/Mods/1404089637/LostContinent</ServerMap>
   <TotalConversionModId />
   <ServerModIds>621154190,849985437,731604991,919470289,1191739191,814833973,819857895</ServerModIds>
   <EnableExtinctionEvent>false</EnableExtinctionEvent>
