@@ -13,6 +13,10 @@ Crie um diretório (C://servidores/steam_cmd/) e descompacte os arquivos ali.
 ### Ark Server Management (ASM)
 Baixe e instale o [Ark Server Management 1.0.301](http://arkservermanager.s3.amazonaws.com/release/ArkServerManager_1.0.301.zip)
 
+OBS: sempre execute o ASM como administrador, isso é muito importante.
+![Admin](https://i.imgur.com/d1DigPX.png) 
+
+
 # Configuração
 ## Portas
 As portas por padrão são:
@@ -29,8 +33,7 @@ OBS: caso elas já estejam sendo usadas por outra aplicação, é necessário tr
 ### Firewall de anti-virus
 * Você precisa abrir as portas listadas acima para TCP e UDP.
 * Pode ser necessário também indicar o caminho do executável do servidor: seu-local-de instalacao/ShooterGame/Binaries/Win64/ShooterGameServer.exe
-
-#### Exemplos
+ 
 ![Abrindo portas no firewall do Windows](https://i.imgur.com/gWUcQbZ.png)
 
 
@@ -49,12 +52,10 @@ OBS: caso elas já estejam sendo usadas por outra aplicação, é necessário tr
 * A senha padrão de acesso é usuário vazio e senha admin.
 
 OBS: essas informações podem mudar de acordo com a marca do seu roteador.
-* Configure a abertura(Forwarding Port) e eventos(Port Triggers) para as portas: 7777 e 27015, indicando o seu ip local (ipv4)
+* Configure a abertura(Forwarding Port) e eventos(Port Triggers) para as portas: 7777 e 27015, indicando o seu ip local (ipv4) e ip externo (público)
+OBS: não esqueça de reiniciar seu modem após as configurações feitas.
 
-
-#### Exemplos
-
-![Forwarding](https://i.imgur.com/BNzSdqx.png?raw=true)
+![Forwarding](https://i.imgur.com/CGoNP7n.png)
 
 ![Port Triggers](https://i.imgur.com/KKW6EPU.png?raw=true)
 
@@ -69,9 +70,22 @@ OBS: essas informações podem mudar de acordo com a marca do seu roteador.
 * [Wyvern Milk Substitute](https://steamcommunity.com/sharedfiles/filedetails/?id=819857895)
 
 
-## Others
+### Outros
 * [Better Milk](https://steamcommunity.com/sharedfiles/filedetails/?id=770949087)
 * [Wyvern Milk Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=878539458)
+
+### Instalação
+* Baixa os mods nos quais se subscreveu
+
+* Vá na pasta dos seus mods locais e copie eles
+Ex. C:\Program Files (x86)\Steam\steamapps\common\ARK\ShooterGame\Content\Mods
+ 
+* Cole os arquivos na pasta dos mods do servidor.
+Ex. C:\diretorio-do-servidor\ShooterGame\Content\Mods
+
+* Adicione os ids dos mods nas configurações do servidor, separados por vírgula e se espaço. 
+Ex. 1404089637,621154190,849985437,731604991,919470289,1191739191,814833973,819857895
+![Mods](https://i.imgur.com/e3kNfZ8.png)
 
 
 ## Maiores informações
