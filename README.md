@@ -1,5 +1,4 @@
-# Informations
-Custom configurations to ark server.
+# Guia para criar um servidor de Ark Survival Evolved
 
 # Criação do servidor (Windows)
 ## Requisitos
