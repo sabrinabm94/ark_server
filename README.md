@@ -61,7 +61,7 @@ OBS: não esqueça de reiniciar seu modem após as configurações feitas.
 
 ## Mods
 ### Oficial
-* Mapa: [Ebenus Astrum](https://steamcommunity.com/sharedfiles/filedetails/?id=916417001)
+* Mapa:
 * [Structures Plus](https://steamcommunity.com/sharedfiles/filedetails/?id=731604991)
 * [Wild Fertilized Eggs No Tame](https://steamcommunity.com/sharedfiles/filedetails/?id=1191739191)
 * [Speedy Flyers](https://steamcommunity.com/sharedfiles/filedetails/?id=919470289)
