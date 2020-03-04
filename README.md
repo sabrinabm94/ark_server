@@ -1,4 +1,4 @@
-# Guia para criar um servidor de Ark Survival Evolved
+# Criar um servidor dedicado para Ark Survival Evolved
 
 # Criação do servidor (Windows)
 ## Requisitos
@@ -91,9 +91,9 @@ Ex. 1404089637,621154190,849985437,731604991,919470289,1191739191,814833973,8198
 * [Ark server management](http://arkservermanager.freeforums.net/thread/4/installation-ark-server-manager)
 
 
-# Contatos
-Sivy
+# Contato
+Sabrina B.
 
-sivyboing@gmail.com
+sabrinabmoreira@gmail.com
 
-newcoderslab.wordpress.com
+https://www.thedevblog.com.br/
