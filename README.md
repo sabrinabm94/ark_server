@@ -91,6 +91,15 @@ Ex. 1404089637,621154190,849985437,731604991,919470289,1191739191,814833973,8198
 ## Maiores informações
 * [Ark server management](http://arkservermanager.freeforums.net/thread/4/installation-ark-server-manager)
 
+---
+
+# Contact
+
+Sabrina B.
+See my profile [here](https://github.com/sabrinabm94/about/blob/main/README.md)
+<sabrinabm94@gmail.com>
+
+
 
 ---
 
